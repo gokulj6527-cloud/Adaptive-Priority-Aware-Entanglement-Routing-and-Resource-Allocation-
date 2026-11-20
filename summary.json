@@ -1,0 +1,26 @@
+{
+  "PA-JRRA (adaptive)": {
+    "delivery_rate": 0.9212225274725275,
+    "weighted_qos_satisfaction": 0.9136325156325157,
+    "avg_fidelity": 0.9709492127052265,
+    "avg_delay_ms": 4.090747513227513,
+    "memory_utilization": 0.5352112676056338,
+    "link_utilization": 0.46378398803482046
+  },
+  "Priority-first (no joint scoring)": {
+    "delivery_rate": 0.9058379120879121,
+    "weighted_qos_satisfaction": 0.9264646464646464,
+    "avg_fidelity": 0.9701317514791535,
+    "avg_delay_ms": 4.147375661375661,
+    "memory_utilization": 0.5309859154929578,
+    "link_utilization": 0.46257727248293284
+  },
+  "Static allocation": {
+    "delivery_rate": 0.7663461538461538,
+    "weighted_qos_satisfaction": 0.8248100048100048,
+    "avg_fidelity": 0.9709430531134308,
+    "avg_delay_ms": 4.123601731601732,
+    "memory_utilization": 0.4126760563380282,
+    "link_utilization": 0.34256982586616325
+  }
+}
